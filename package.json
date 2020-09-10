@@ -1,0 +1,24 @@
+{
+  "name": "huck",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "chartjs-plugin-streaming": "^1.8.0",
+    "firebase": "^7.19.1",
+    "moment": "^2.27.0",
+    "nuxt": "^2.14.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
+    "vue-chartjs": "^3.5.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
